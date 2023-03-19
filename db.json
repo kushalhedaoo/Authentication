@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "virat",
+      "name": "virat kohli",
+      "course": "java",
+      "email": "virat@gmail.com",
+      "phone": "2352190",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "kkush",
+      "name": "kushal hedaoo",
+      "course": "java",
+      "email": "kushalhedaoo07@gmail.com",
+      "phone": "+917887869891",
+      "country": "india",
+      "address": "NAGPUR",
+      "gender": "female"
+    },
+    {
+      "id": "oytie",
+      "name": "oytie",
+      "course": "java",
+      "email": "oytie@gmail.com",
+      "phone": "483101",
+      "country": "india",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "ku",
+      "name": "kushal hedaoo",
+      "course": "ja",
+      "email": "kushalhedaoo07@gmail.com",
+      "phone": "+917887869891",
+      "country": "india",
+      "address": "B101 GYAN JYOTI APPT 63A LOK KALYAN SOCIETY NARENDRA NAGAR  NAGPUR",
+      "gender": "male"
+    }
+  ]
+}
